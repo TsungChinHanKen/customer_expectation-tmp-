@@ -1,4 +1,4 @@
-# Tableau Data Science Challenge
+# Data Science Challenge
 ### Topic - customer_expectation
 
 ### Files in the repo
