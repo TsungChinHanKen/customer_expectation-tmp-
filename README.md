@@ -1,7 +1,7 @@
 # Tableau Data Science Challenge
 ### Topic - customer_expectation
 
-###Files in the repo
+### Files in the repo
 1. archive.zip (The original downloaded data from Kaggle)
 2. data (unzip data including train and test, as well as prediction files)
 	- Train.csv
